@@ -7,3 +7,5 @@
 <p align="center">
 <a href='https://blinkies.cafe' target='_blank'><img src='https://file.garden/Zt0H78gKC1ZH6PKq/blinkiesCafe-cc.gif' alt='blinkies.cafe | make your own blinkies!'></a>
 </p>
+<p align="center">
+    <img width="150" src="https://file.garden/Zt0H78gKC1ZH6PKq/Screenshot%202024-09-30%20215056.png" alt="Material Bread logo">
